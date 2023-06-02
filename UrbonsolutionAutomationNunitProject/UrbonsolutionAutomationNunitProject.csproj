@@ -26,6 +26,7 @@
 
   <ItemGroup>
     <Folder Include="drivers\" />
+    <Folder Include="Screenshot\" />
   </ItemGroup>
 
   <ItemGroup>
